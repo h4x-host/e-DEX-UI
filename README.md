@@ -1,5 +1,5 @@
 
-# eDEX-UI v2.2.8, and archiving the project
+# eDEX-UI v2.3.9, and archiving the project
 
 
 
